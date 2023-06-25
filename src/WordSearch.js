@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 
 const WordSearch = () => {
-  const words = ['BETA', 'ALPHA', 'GAMMA', 'DELTA', 'EPSILON', 'THETA', 'MU'];
+  const words = ['BETA', 'ALPHA', 'GAMMA', 'DELTA', 'EPSILON', 'THETA', 'MU', 'NU'];
   const grid = [
     ['L', 'R', 'T', 'U', 'G', 'E', 'Q', 'E', 'N'],
     ['U', 'L', 'R', 'R', 'M', 'O', 'H', 'A', 'A'],
